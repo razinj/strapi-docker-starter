@@ -2,7 +2,7 @@
 
 A Strapi 4 template project using PostgreSQL with Docker and Docker Compose support
 
-This repository is associated with a blog post, for more details please head to the post from [here](https://razinj.dev/how-to-run-strapi-4-in-a-docker-container-using-docker-compose/).
+This repository is associated with a blog post, for more details please head to the post from [here](https://short.razinj.com/n1rf4f).
 
 ## Development deployment
 
